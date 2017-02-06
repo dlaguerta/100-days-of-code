@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge.
 
+I will be using this repo to help me solidify the things I learn at my internship, in addition to refining my skills in Ruby and Javascript. Check out my [Log](log.md) to see my progress! It will include links to projects I'm working on through the next 100 days.
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
